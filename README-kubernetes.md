@@ -95,3 +95,4 @@ kubectl get pods -l app=get-started-python
 kubectl delete deployment,service -l app=get-started-python
 kubectl delete secret cloudant
 ```
+Dummy commit #2 for assignment
